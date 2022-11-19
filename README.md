@@ -33,9 +33,7 @@ Para vizualizar o projeto é possível acesá-lo através do link a seguir:
 
 <a href="https://oceanic-dirt.surge.sh/" target="_blank">Link Surge</a>
 
-## ✒️ Autor
-
 ## INTEGRANTE
-Perfil      | Link do perfil no GitHUB
+Perfil      | Link do perfil no Linkedin
 --------- | ------
-[<img src="https://avatars.githubusercontent.com/jrpovoa" width="75px;"/>](https://github.com/desenvolvedor1) |  [ Rodrigo Póvoa ](https://github.com/jrpovoa)
+[<img src="https://avatars.githubusercontent.com/jrpovoa" width="75px;"/>](https://github.com/jrpovoa) |  [ Rodrigo Póvoa ](https://www.linkedin.com/in/rodrigo-p%C3%B3voa/)
