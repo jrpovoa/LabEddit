@@ -2,7 +2,7 @@
 
 ### 🚀 Descrição do Projeto
 
- A ideia é fazer uma rede real, com cadastro, login, posts, likes e comentários. Para isso, iremos nos basear no reddit.com. 
+ A ideia é fazer uma rede real, com cadastro, login, posts, likes e comentários. Para isso, iremos nos basear no reddit.com
 
 ### 📋 Funcionalidades
 - [x] Fazer Login
